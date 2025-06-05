@@ -1,4 +1,5 @@
 # Rob599 Project 
+This code runs on ROS2 Jazzy and uses Turtlesim simulation. 
 The project is to spawn 5 turtles. Turtle 1 will follow the turtle 5 by default. A service can change which turtle will be followed. chaser.py is the code used in the launch file. 
 
 To run the code:
